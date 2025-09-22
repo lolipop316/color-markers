@@ -1,4 +1,4 @@
-# Coffee Menu ☕
+# Color Markers 🖍️
 
 A simple HTML/CSS project for my diploma prep.
 
