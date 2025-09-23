@@ -2,8 +2,7 @@
 
 A simple HTML/CSS project for my diploma prep.
 
-**Live Demo:** [View on GitHub Pages][(https://lolipop316.github.io/color-markers/](https://lolipop316.github.io/FCC-color-markers/)
-
+**Live Demo:** [View on GitHub Pages][(https://lolipop316.github.io/FCC-color-markers/)]
 ---
 
 ## About
